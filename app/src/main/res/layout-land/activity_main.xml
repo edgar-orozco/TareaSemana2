@@ -26,9 +26,8 @@
         android:textSize="@dimen/abc_search_view_preferred_height"
         android:textIsSelectable="false"
         android:textColor="@color/abc_primary_text_material_dark"
-        android:layout_alignTop="@+id/imageView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="26dp" />
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
 
     <Button
         android:layout_width="wrap_content"
