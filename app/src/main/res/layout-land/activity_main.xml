@@ -37,8 +37,7 @@
         android:background="@android:color/holo_blue_light"
         android:textColor="@color/abc_primary_text_material_dark"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true"
-        android:layout_marginTop="25dp" />
+        android:layout_centerHorizontal="true" />
 
 
 </RelativeLayout>
